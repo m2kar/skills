@@ -7,7 +7,7 @@
 使用 npx skills 命令安装：
 
 ```bash
-npx skills@latest install log
+npx skills@latest install m2kar/skills
 ```
 
 ## 可用 Skills
