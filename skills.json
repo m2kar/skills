@@ -1,0 +1,9 @@
+{
+  "skills": [
+    {
+      "name": "log",
+      "description": "记录会话日志到 AGENTS_LOG.md",
+      "path": "skills/log/SKILL.md"
+    }
+  ]
+}
